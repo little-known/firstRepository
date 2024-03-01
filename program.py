@@ -1,5 +1,5 @@
 def new_function():
-    pass
+    print('This is my new branch №1')
 
 
 def main():

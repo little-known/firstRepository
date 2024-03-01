@@ -11,6 +11,8 @@ def main():
 
     new_function()
 
+    print(1)
+
 
 if __name__ == '__main__':
     main()
